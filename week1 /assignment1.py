@@ -4,6 +4,6 @@ def solution(a ,b) :
     if a > b :
         a, b = b, a
 
-    res = int(((a+b)/2) * (b - a + 1))
+    res = (a+b) * (b - a + 1) // 2
     return res
 
