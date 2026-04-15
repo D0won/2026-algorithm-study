@@ -1,7 +1,9 @@
 import sys
 from collections import deque
 
-
+'''
+알고리즘 : 스택과 플래그 변수를 활용하여 문제를 푼다.
+'''
 while True :
     line = input()
     if line == '.' :
@@ -29,6 +31,3 @@ while True :
         print('yes')
     else :
         print('no')
-'''
-알고리즘 : 스택과 플래그 변수를 활용하여 문제를 푼다.
-'''
