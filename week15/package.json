@@ -1,0 +1,8 @@
+{
+  "name": "hex-davies-benchmark",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "davies-hex-ai": "1.2.7"
+  }
+}
