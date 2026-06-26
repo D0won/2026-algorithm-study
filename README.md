@@ -24,6 +24,7 @@ Coding assignments and online judge problems are solved primarily on PNU's offic
 | **Week 12**| Branch & Bound & Advanced DP | • TSP via Branch & Bound<br>• Interleaving String Validation (DP) in [assignment12_202355699.py](week12/assignment12_202355699.py) | • [1109.py](week12/1109.py)<br>• [1110.py](week12/1110.py) |
 | **Week 13**| Heuristic Optimization & Genetic Algorithms | • Genetic Algorithm for TSP<br>• 3D Block Projection Stacking in [assignment13_202355699.py](week13/assignment13_202355699.py) | • [1067.py](week13/1067.py) |
 | **Week 14**| Number Theory | • Finding original numbers from proper divisors | • [3064.py](week14/3064.py) |
+| **Week 15**| **Final Examination Week** | *No new algorithms* | *(N/A)* |
 | **Week 16**| **Term Project: Hex AI Playing Agent** | • Strategic board game engine & playing AI agent using minimax search, alpha-beta pruning, and heuristics in [week16/](week16/) | *(Term Project)* |
 
 ---
