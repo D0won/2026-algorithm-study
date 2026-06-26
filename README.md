@@ -10,7 +10,7 @@ Coding assignments and online judge problems are solved primarily on PNU's offic
 
 | Week | Core Topics & Algorithms | Assignments & Implementations | Codeplace Problems |
 |:---:|---|---|---|
-| **Week 1** | Introduction & Complexity Analysis | • Sum of integers using Gauss's formula ($O(1)$) in [assignment1_202355699.py](week1%20/assignment1_202355699.py) | • [1160.py](week1%20/1160.py)<br>• [1509.py](week1%20/1509.py) |
+| **Week 1** | Introduction & Complexity Analysis | • Sum of integers using Gauss's formula (O(1)) in [assignment1_202355699.py](week1%20/assignment1_202355699.py) | • [1160.py](week1%20/1160.py)<br>• [1509.py](week1%20/1509.py) |
 | **Week 2** | Sieve of Eratosthenes & Prime Numbers | • License plate prime number checker in [assignment2_202355699.py](week2/assignment2_202355699.py) | • [3164.py](week2/3164.py)<br>• [3199.py](week2/3199.py)<br>• [4010.py](week2/4010.py) |
 | **Week 3** | Divide & Conquer (Part I) | • Tower of Hanoi path tracker in [assignment3_202355699.py](week3/assignment3_202355699.py)<br>• Merge Sort in [merge_sort.py](week3/merge_sort.py) | • [1053.py](week3/1053.py) |
 | **Week 4** | Divide & Conquer (Part II) & Disjoint Set | • Quick Sort (Hoare / Lomuto partition) & Quick Select<br>• Kruskal's MST (Union-Find) in [assignment4_202355699.py](week4/assignment4_202355699.py) | • [1018.py](week4/1018.py)<br>• [1076.py](week4/1076.py)<br>• [3234.py](week4/3234.py) |
